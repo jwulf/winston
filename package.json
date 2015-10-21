@@ -1,14 +1,14 @@
 {
-  "name": "winston",
-  "description": "A multi-transport async logging library for Node.js",
-  "version": "1.1.0",
+  "name": "winston-awsm",
+  "description": "A multi-transport async logging library for Node.js, patched for AWS and JAWS",
+  "version": "1.1.1",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
   "maintainers": [
     "indexzero <charlie@nodejitsu.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/winstonjs/winston.git"
+    "url": "https://github.com/jwulf/winston.git"
   },
   "keywords": [
     "logging",
