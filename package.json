@@ -1,7 +1,7 @@
 {
   "name": "winston-awsm",
   "description": "A multi-transport async logging library for Node.js, patched for AWS and JAWS",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
   "maintainers": [
     "indexzero <charlie@nodejitsu.com>"
